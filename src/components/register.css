@@ -1,0 +1,9 @@
+.register {
+  display: grid;
+  place-items: center;
+  padding: 50px 0;
+}
+.registerForm {
+  display: flex;
+  flex-direction: column;
+}
